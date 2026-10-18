@@ -1,0 +1,8 @@
+{
+  "name": "Remix VŨ HÀ- MRemix APP SOẠN khbd stemRemix STEM Plan AI",
+  "description": "Trợ lý AI hỗ trợ giáo viên Tiểu học thiết kế kế hoạch bài dạy STEM chuyên nghiệp, sáng tạo và hiệu quả.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
