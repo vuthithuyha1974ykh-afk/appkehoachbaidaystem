@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import { Header, NavTab } from './components/Header';
 import { HomeOverview } from './components/HomeOverview';
 import { CreatePlanWizard } from './components/CreatePlanWizard';
@@ -448,6 +449,7 @@ export default function App() {
           Nội dung do AI đề xuất cần được giáo viên kiểm tra, điều chỉnh phù hợp với thực tế lớp học.
         </p>
       </footer>
+      <SpeedInsights />
     </div>
   );
 }
